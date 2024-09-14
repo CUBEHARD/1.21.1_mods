@@ -1,0 +1,1 @@
+fps_counter: "https://cdn.modrinth.com/data/DIlqwRFH/versions/nWbgJNPj/fpsdisplay-4.2.1%2B1.21.1.jar"
