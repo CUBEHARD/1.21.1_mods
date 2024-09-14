@@ -25,4 +25,4 @@ Get-Content $linksFile | ForEach-Object {
 }
 
 # Printing status after downloading sequence
-Write-Host "Successfully downloaded $successCount z $totalCount files."
+Write-Host "Successfully downloaded $successCount out of $totalCount files."
