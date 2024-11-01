@@ -34,3 +34,4 @@ wavey_capes: "https://cdn.modrinth.com/data/kYuIpRLv/versions/xCclI9ED/waveycape
 yet_another_config_lib: "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar"
 zoomify: "https://cdn.modrinth.com/data/w7ThoJFB/versions/vg7GaKbh/Zoomify-2.14.0%2B1.21.jar"
 who_am_i: "https://cdn.modrinth.com/data/CcxcmoLQ/versions/tzXCp7yH/who-am-i-1.2.0.jar"
+freelook: "https://cdn.modrinth.com/data/g4pR0Fmy/versions/6qqXiKkG/freelook-1.2.2.jar"
