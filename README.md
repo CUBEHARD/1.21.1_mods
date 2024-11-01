@@ -4,5 +4,5 @@ How to run:
  - Close minecraft.
  - Go to `%appdata%/.minecraft` and open `mods` folder.
  - Clone this repository into mods folder.
- - Right click to `mods-downloader` and select `Run with powershell`.
+ - Run `executor.bat`.
  - Done.
